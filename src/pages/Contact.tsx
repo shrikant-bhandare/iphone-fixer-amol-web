@@ -30,8 +30,8 @@ const Contact = () => {
       icon: Phone,
       title: "Call Us",
       subtitle: "24/7 Support Available",
-      action: "+91 9876 99999",
-      href: "tel:+919876999999"
+      action: "+91 9307025605",
+      href: "tel:+919307025605"
     },
     {
       icon: Mail,
